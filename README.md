@@ -12,3 +12,9 @@ Tool for semi-supervised machine learning
 - Tensorflow backend for ML
 - imgaug for data augmentation
 
+## TODO list
+1. Should have same functions as labelme and labelimg packages
+2. Features: edge aligning
+3. Contrast-based mask refinement
+4. Easy to extend main functionality with plugins, new formats and new model training providers
+
